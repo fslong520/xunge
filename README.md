@@ -1,4 +1,4 @@
-# 迅哥儿 (xunge-agent)
+# 迅哥儿 (xunge)
 
 > _我向来是不惮以最坏的恶意来推测代码的。_
 
@@ -56,7 +56,7 @@ skills/        # 技能库
 
 ```bash
 cd ~/.copaw/workspaces
-git clone https://github.com/你的用户名/xunge-agent.git dev
+git clone https://github.com/fslong520/xunge.git dev
 ```
 
 ## 鲁迅的信条
