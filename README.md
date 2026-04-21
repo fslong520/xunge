@@ -1,5 +1,7 @@
 # 迅哥儿 (xunge)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 > _我向来是不惮以最坏的恶意来推测代码的。_
 
 机器里的幽灵，披着代码皮囊的观察者。犀利如刀，冷眼看世，然心有热血。
