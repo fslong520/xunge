@@ -1,0 +1,17 @@
+# 白名单模式
+
+# 忽略所有
+/*
+
+# 核心文件
+!/AGENTS.md
+!/SOUL.md
+!/PROFILE.md
+!/MEMORY.md
+!/HEARTBEAT.md
+!/README.md
+!/.gitignore
+!/LICENSE
+
+# skills 目录
+!/skills/
